@@ -1,6 +1,6 @@
 :root {
-    --cor-de-fundo: rgb(83, 80, 80);
-    --cor-cabecalho: rgb(126, 123, 123);
+    --cor-de-fundo: rgb(255, 0, 0);
+    --cor-cabecalho: rgb(255, 0, 0);
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 }
 
 .cabecalho-menu {
-    background-color: rgb(77, 77, 77);
+    background-color: rgb(255, 0, 0);
 }
 
 .cabecalho-menu-item {
